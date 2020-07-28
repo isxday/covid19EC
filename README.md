@@ -1,4 +1,4 @@
-# covid19EC
+# :chart_with_upwards_trend: Coronavirus cases in Ecuador
 
 **NOTE:** Due to data inconsistency from official sources, the site can no longer be updated.
 
